@@ -20,7 +20,7 @@ Greenhouse farming has become increasingly popular in recent years, as it offers
 10. DC Motors
 
 ## Circuit:
-![Circuit Diagram](circuit_diagram.png)
+![Screenshot 2024-05-06 120842](https://github.com/mihirshah0603/Automatic-Greenhouse-Effect-Controller/assets/129767522/07ce5a40-1c5f-4b89-883d-27e71e363acf)
 
 ## Code:
 ```arduino
@@ -98,6 +98,11 @@ The greenhouse control system was simulated using Proteus software, and the foll
 1. The temperature readings were displayed on the LED display, and the cooling system was activated when the temperature exceeded the set threshold.
 2. The intensity of sunlight was measured, and the shading system was activated when the intensity of sunlight was too high.
 3. The water level was measured, and the water pump was activated when the water level was too low.
+
+
+https://github.com/mihirshah0603/Automatic-Greenhouse-Effect-Controller/assets/129767522/190e9dae-8005-42c1-a392-40518b878591
+
+
 
 ## Conclusion:
 The designed greenhouse condition control system provides an efficient way to monitor and control the temperature, sunlight, and water levels inside a greenhouse. The Arduino Uno microcontroller is used to interface with various sensors and to control their operation based on programmed instructions. The system's performance can be simulated using Proteus software, making it easier to test and optimize the system before deployment.
